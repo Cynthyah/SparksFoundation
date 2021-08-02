@@ -1,7 +1,7 @@
 # The Sparks Foundation (TSF) 
 
 ------------
-![alt text](GRIP The Sparks Foundation.png "Grip")
+![alt text](GRIP_TheSparksFoundation.png "Grip")
 
 ##### The Graduate Rotational Internship Program(GRIP) is a unique offer for students and recent graduates to experience and join The Sparks Foundation. In addition to skills-specific tasks, we encourage interns to build a credible professional profile.
 
