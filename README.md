@@ -9,3 +9,6 @@
 
 ## Task 1
 ![alt text](Task1/Task1.png "Task1")
+
+## Task 2
+![alt text](Task2/Task2.png "Task2")
