@@ -22,5 +22,8 @@
 ## Task 5
 ![alt text](Task5/Task5.png "Task5")
 
-## Task 6 - In progress 🚧
+## Task 6
 ![alt text](Task6/Task6.png "Task6")
+
+# Task 7 - In progress 🚧
+![alt text](Task7/Task7.png "Task7")
